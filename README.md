@@ -4,3 +4,10 @@ This repository is just a practice repository for the programs and projects and 
 # GOAL
 The main target is to learn the implementation of Object Oriented Programming (OOP) using Python.
 The repository will be updated as per the progress in the program.
+
+
+#Topics
+Classes and Objects
+Inheritance
+Polymorphism
+(Will be updated as we continue)

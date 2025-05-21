@@ -9,5 +9,5 @@ The repository will be updated as per the progress in the program.
 # Topics
 Classes and Objects
 Inheritance
-Polymorphism
-(Will be updated as we continue)
+Polymorphism\n
+Encapsulation
